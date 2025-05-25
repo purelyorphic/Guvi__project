@@ -6,6 +6,7 @@ This project aims to perform data cleaning, preprocessing, and exploratory data 
 ## 📁 Files Included
 - `Titanic_EDA_Hackathon.ipynb`: Jupyter notebook with preprocessing and analysis
 - `titanic.csv`: Dataset used for the analysis
+- `titanic.preprocessing`: Python script with core preprocessing and EDA code used in the notebook
 
 ## 📊 Steps Covered
 1. Data Cleaning:
